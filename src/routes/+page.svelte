@@ -20,5 +20,3 @@
 		toast me
 	</button>
 </div>
-
-<DialogOverlay />
